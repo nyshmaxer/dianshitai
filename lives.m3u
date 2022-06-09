@@ -55,7 +55,7 @@ http://132.145.79.84:9500/live.m3u8?c=52
 http://132.145.79.84:9500/live.m3u8?c=53
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",TVBS新闻
 http://132.145.79.84:9500/live.m3u8?c=54
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",视新闻
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",台视新闻
 http://132.145.79.84:9500/live.m3u8?c=55
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",寰宇新闻
 http://132.145.79.84:9500/live.m3u8?c=56
