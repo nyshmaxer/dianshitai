@@ -37,7 +37,7 @@ https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_h
 http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qZPDq1.png" group-title="英国公共台",CBBC HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国公共台看",CBeebies HD
+#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国公共台",CBeebies HD
 https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",凤凰资讯
 http://132.145.79.84:9500/live.m3u8?c=68
@@ -65,6 +65,18 @@ http://132.145.79.84:9500/live.m3u8?c=58
 http://132.145.79.84:9500/live.m3u8?c=59
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",中天新闻
 http://132.145.79.84:9500/live.m3u8?c=70
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",公视
+http://211.23.114.106:11120/http/60.251.39.91:8081/hls/73/815/ch50.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",年代新闻
+http://211.23.114.106:11330/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="壹新闻",
+http://211.23.114.106:11405/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",非凡商业
+http://211.23.114.106:11180/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",非凡新闻
+http://211.23.114.106:11380/http/60.251.39.91:8081/hls/75/817/ch57.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",龙华日韩
+http://211.23.114.106:11310/http/60.251.39.91:8066/hls/210/10011/cstv11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",探索发现
 http://211.23.114.106:11510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",国家地理
