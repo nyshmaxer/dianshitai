@@ -78,6 +78,6 @@ http://211.23.114.106:11130/http/60.251.39.91:8066/hls/210/10018/cstv18.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",博斯运动II
 http://211.23.114.106:11450/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",ELEVEN 1
-http://211.23.114.106:11300/http/60.251.39.91:8081/hls/69/811/ch33.m3u8
+http://211.23.114.106:11455/http/60.251.39.91:8078/hls/26/80/esport1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",ELEVEN 2
 http://211.23.114.106:11435/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
