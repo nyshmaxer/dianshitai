@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",Bloomberg Global Financial News 
+http://132.145.79.84:9500/live.m3u8?c=32
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",CNBC 
+http://211.23.114.106:11430/http/60.251.39.91:8078/hls/24/80/cnbc90.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英语新闻",BBC News HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",Sky News
+http://132.145.79.84:9500/live.m3u8?c=33
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",ABC News
+http://132.145.79.84:9500/live.m3u8?c=35
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",GB News
+http://132.145.79.84:9500/live.m3u8?c=62
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",France 24
+http://132.145.79.84:9500/live.m3u8?c=64
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",DW  News
+http://132.145.79.84:9500/live.m3u8?c=36
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",Al Jazeera English
+http://132.145.79.84:9500/live.m3u8?c=37
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",CNA
+http://132.145.79.84:9500/live.m3u8?c=41
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",African News
+http://132.145.79.84:9500/live.m3u8?c=42
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",ABC News AU
+http://132.145.79.84:9500/live.m3u8?c=43
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语演讲",English Speech - American
+http://132.145.79.84:9500/live.m3u8?c=45
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语演讲",English Speech - Entrepreneurs
+http://132.145.79.84:9500/live.m3u8?c=46
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDmEd.png" group-title="英国公共台",BBC One HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDVDe.png" group-title="英国公共台",BBC Two HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国公共台",BBC Four HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoTLd.png" group-title="英国公共台",BBC Parliament
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qZPDq1.png" group-title="英国公共台",CBBC HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国公共台看",CBeebies HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",凤凰资讯
+http://132.145.79.84:9500/live.m3u8?c=68
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",凤凰中文
+http://132.145.79.84:9500/live.m3u8?c=48
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",民视新闻
+http://132.145.79.84:9500/live.m3u8?c=49
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",镜新闻
+http://132.145.79.84:9500/live.m3u8?c=50
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",东森新闻
+http://132.145.79.84:9500/live.m3u8?c=51
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",东森财经新闻
+http://132.145.79.84:9500/live.m3u8?c=52
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",东森财经股市
+http://132.145.79.84:9500/live.m3u8?c=53
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",TVBS新闻
+http://132.145.79.84:9500/live.m3u8?c=54
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",视新闻
+http://132.145.79.84:9500/live.m3u8?c=55
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",寰宇新闻
+http://132.145.79.84:9500/live.m3u8?c=56
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",三立新闻
+http://132.145.79.84:9500/live.m3u8?c=58
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",中视新闻
+http://132.145.79.84:9500/live.m3u8?c=59
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",中天新闻
+http://132.145.79.84:9500/live.m3u8?c=70
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",探索发现
+http://211.23.114.106:11510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",国家地理
+http://211.23.114.106:11150/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",动物星球
+http://211.23.114.106:11155/http/60.251.39.91:8081/hls/70/812/ch37.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",纬来体育
+http://211.23.114.106:11440/http/60.251.39.91:8081/hls/67/809/ch28.m3u
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",博斯运动I
+http://211.23.114.106:11130/http/60.251.39.91:8066/hls/210/10018/cstv18.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",博斯运动II
+http://211.23.114.106:11450/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",ELEVEN 1
+http://211.23.114.106:11455/http/60.251.39.91:8078/hls/26/80/esport1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",ELEVEN 2
+http://211.23.114.106:11435/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
