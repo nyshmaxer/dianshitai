@@ -4,6 +4,14 @@
 http://192.9.241.2:9500/live.m3u8?c=1
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",CNBC 
 http://211.23.114.106:11430/http/60.251.39.91:8078/hls/24/80/cnbc90.m3u8
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="英语新闻",Bloomberg TV+
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="英语新闻",Yahoo! Finance
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="RealVision.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mLUmsCt.png" group-title="英语新闻",Real Vision
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英语新闻",BBC News HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="BBCNews.uk" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英语新闻",BBC News HD
 https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",Sky News
