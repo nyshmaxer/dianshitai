@@ -120,3 +120,5 @@ http://211.23.114.106:11450/http/60.251.39.91:8081/hls/61/803/ch04.m3u8
 http://211.23.114.106:11455/http/60.251.39.91:8078/hls/26/80/esport1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",ELEVEN 2
 http://211.23.114.106:11435/http/60.251.39.91:8078/hls/26/80/esport2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/智林体育台.png" group-title="港台文体",智林体育
+http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
