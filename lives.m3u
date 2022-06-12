@@ -22,8 +22,6 @@ https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 http://192.9.241.2:9500/live.m3u8?c=2
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",ABC News
 http://192.9.241.2:9500/live.m3u8?c=5
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",Foxnews Livenow
-http://192.9.241.2:9500/live.m3u8?c=27
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",GB News
 http://192.9.241.2:9500/live.m3u8?c=9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",France 24
