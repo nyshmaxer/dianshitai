@@ -14,8 +14,10 @@ https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="英语新闻",BBC World News
 http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",CNN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",CNN US
 https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="Global", CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="euronewsen.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Euronews.png" group-title="英语新闻",Euronews EN
 https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="英语新闻",Sky News
