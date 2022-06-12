@@ -4,11 +4,11 @@ http://61.221.81.93:8088/hls/61/803/ch04.m3u8
 #EXTINF:-1,国家地理
 http://61.221.81.93:8581/hls/210/10016/cstv16.m3u8
 #EXTINF:-1,动物星球
-http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+http://iptv12k.com:35461/live/test167/12345/1233.m3u8
 #EXTINF:-1,动物星球2
-http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702
+http://iptv12k.com:35461/live/8032022060101/452381/1233.m3u8
 #EXTINF:-1,探索频道
-http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+http://iptv12k.com:35461/live/test167/12345/1231.m3u8
 #EXTINF:-1,无线新闻
 http://radius.8866.org:880/hls/82/index.m3u8
 #EXTINF:-1,无线新闻
