@@ -68,6 +68,8 @@ https://api.leonardpark.dev/live/icable/108
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台新闻",无线新闻
 http://111.229.84.232/yulin/tvb.php?id=1
+#EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台新闻",无线新闻2
+http://meimei.kandiantv.cn/taitai/tbs.php?id=9 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港台新闻",无线财经
 http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",民视新闻
@@ -104,8 +106,6 @@ http://211.23.114.106:11405/http/60.251.39.91:8081/hls/66/808/ch24.m3u8
 http://211.23.114.106:11180/http/60.251.39.91:8081/hls/74/816/ch56.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",非凡新闻
 http://211.23.114.106:11380/http/60.251.39.91:8081/hls/75/817/ch57.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",龙华日韩
-http://211.23.114.106:11310/http/60.251.39.91:8066/hls/210/10011/cstv11.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",探索发现
 http://211.23.114.106:11510/http/60.251.39.91:8081/hls/71/813/ch44.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",国家地理
@@ -113,7 +113,9 @@ http://211.23.114.106:11150/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",动物星球
 http://211.23.114.106:11155/http/60.251.39.91:8081/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",动物星球2
-http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288 
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",动物星球3
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",纬来体育
 http://211.23.114.106:11440/http/60.251.39.91:8081/hls/67/809/ch28.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",博斯运动I
