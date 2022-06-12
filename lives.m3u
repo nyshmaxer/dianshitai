@@ -113,7 +113,7 @@ http://211.23.114.106:11150/http/60.251.39.91:8081/hls/61/803/ch01.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",动物星球
 http://211.23.114.106:11155/http/60.251.39.91:8081/hls/70/812/ch37.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",动物星球2
-http://59.125.101.187:8719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8?
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",纬来体育
 http://211.23.114.106:11440/http/60.251.39.91:8081/hls/67/809/ch28.m3u
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台文体",博斯运动I
