@@ -65,7 +65,7 @@ https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台新闻",有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台新闻",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="港台新闻",无线财经
 http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="港台新闻",民视新闻
