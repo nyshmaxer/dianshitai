@@ -1,0 +1,202 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="彭博财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="英语新闻",Bloomberg Global Financial News 
+http://192.9.241.2:9500/live.m3u8?c=1
+
+#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hkguojicaijing.png" group-title="英语新闻",香港國際財經台
+https://cdn.hklive.tv/hls/76/index.m3u8
+
+#EXTINF:-1 tvg-id="BloombergTVPlus.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/xGlToly.png" group-title="英语新闻",Bloomberg TV+
+https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg Asia" tvg-country="US" tvg-language="English" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="英语新闻",Bloomberg Asia
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Reuters" tvg-logo="" group-title="英语新闻", Reuters Now
+https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNBCHongKong" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png" group-title="英语新闻", CNBC
+http://mgxpgf8s.russtv.net/iptv/3PXF6G6TYBR85W/962/index.m3u
+
+#EXTINF:-1 tvg-id="YahooFinance.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/43oHsHL.png" group-title="英语新闻",Yahoo! Finance
+https://yahoofinance-localnow.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RealVision.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/mLUmsCt.png" group-title="英语新闻",Real Vision
+https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
+
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBCWorldNews" tvg-logo="https://s1.ax1x.com/2022/03/20/qVrER0.png" group-title="英语新闻",BBC News HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCWORLDNEWSASIA.png" group-title="英语新闻",BBC World News
+http://vips-livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist_b500000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-name="" tvg-logo="http://static.epg.best/gb/CNN.uk.png" group-title="英语新闻",CNN US
+https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png" group-title="英语新闻", CNN International
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/euronews.png" group-title="英语新闻",Euronews EN
+https://rakuten-euronews-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NBC News Now" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSGnIRaclE5FRNiD5lLG8EZuHivkPx0ynoD_T6gifA=s88-c-k-c0x00ffffff-no-rj" group-title="英语新闻",NBC News Now
+http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="SkyNews" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png" group-title="英语新闻",Sky News
+http://192.9.241.2:9500/live.m3u8?c=2
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",ABC News
+http://192.9.241.2:9500/live.m3u8?c=5
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",GB News
+http://192.9.241.2:9500/live.m3u8?c=9
+
+#EXTINF:-1 tvg-id="" tvg-name="france24" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png" group-title="英语新闻",France 24
+http://192.9.241.2:9500/live.m3u8?c=10
+
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png" group-title="英语新闻",DW  News
+http://192.9.241.2:9500/live.m3u8?c=4
+
+#EXTINF:-1 tvg-id="" tvg-name="aljazeera" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png" group-title="英语新闻",Al Jazeera English
+http://192.9.241.2:9500/live.m3u8?c=3
+
+#EXTINF:-1 tvg-id=""tvg-name="ChannelNewsAsia"  tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png" group-title="英语新闻", Channel News Asia
+http://192.9.241.2:9500/live.m3u8?c=6
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语新闻",Africanews
+http://192.9.241.2:9500/live.m3u8?c=8
+
+#EXTINF:-1 tvg-id="" tvg-name="ABCAustralia" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png" group-title="英语新闻",ABC News AU
+http://192.9.241.2:9500/live.m3u8?c=7
+
+#EXTINF:-1 tvg-id="" tvg-name="Australian Channel" tvg-logo="https://tbivision.com/files/2014/10/Australia-channel-300x169.jpg" group-title="英语新闻", Australian Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/nyGTY9sgIFPj49TOqesJ7cliGP7263db4wR9Wp0DNevjtpmBnwN_y__Hd3UzdVk-0pjB7oM46F3a=w45-h45-p-ns-nd-rw" group-title="英语新闻", Foxnews Now
+http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://yt3.ggpht.com/YwzCgGcjCay_O89TiAYoP7mRSVS_KewMlxk8MlHxKsXzTQum2L3PxXkHZjb0GKG38Z0COFEzCbMQ=w45-h45-p-ns-nd-rw" group-title="英语新闻", Foxnews
+http://mgxpgf8s.russtv.net/iptv/3PXF6G6TYBR85W/19147/index.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="CBC News" tvg-logo="https://yt3.ggpht.com/UDLxCALyHXJN1-ZTawdO39fhMZLrAiPH2EiwbPNffqmGHkU01HVT20oaPCJvt7iSoRchrTTwvA=s88-c-k-c0x00ffffff-no-rj" group-title="英语新闻",CBC News
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语演讲",English Speech - American
+http://192.9.241.2:9500/live.m3u8?c=24
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="英语演讲",English Speech - Entrepreneurs
+http://192.9.241.2:9500/live.m3u8?c=25
+
+#EXTINF:-1 tvg-id="BBCOne.uk" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDmEd.png" group-title="英国公共台",BBC One HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="BBCTwo.uk" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVDVDe.png" group-title="英国公共台",BBC Two HD
+https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="BBCFour.uk" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVD941.png" group-title="英国公共台",BBC Four HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="BBCParliament.uk" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVoTLd.png" group-title="英国公共台",BBC Parliament
+http://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/t=3840/v=pv10/b=1604032/main.m3u8
+
+#EXTINF:-1 tvg-id="CBBC.uk" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qZPDq1.png" group-title="英国公共台",CBBC HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="CBeebiesUK.uk" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/03/20/qVBxHJ.png" group-title="英国公共台",CBeebies HD
+https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港台新闻",凤凰资讯
+http://192.9.241.2:9500/live.m3u8?c=12
+
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台新闻",凤凰中文
+http://192.9.241.2:9500/live.m3u8?c=11
+
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台新闻",有线新闻
+https://api.leonardpark.dev/live/icable/109
+
+#EXTINF:-1 tvg-id="" tvg-name="有线新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台新闻",有线新闻2
+http://meimei.kandiantv.cn/taitai/tbs.php?id=24 
+
+#EXTINF:-1 tvg-id="" tvg-name="有线财经资讯台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png" group-title="港台新闻",有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png" group-title="港台新闻",有线直播新闻台
+https://api.leonardpark.dev/live/icable/110
+
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="港台新闻",无线新闻
+https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://live.hkanime.com.hk/png_logo/77.png" group-title="港台新闻",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2.m3u8dex.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="民视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="港台新闻", 民视新闻
+http://192.9.241.2:9500/live.m3u8?c=13
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台新闻",镜新闻
+http://192.9.241.2:9500/live.m3u8?c=15
+
+#EXTINF:-1 tvg-id="" tvg-name="东森新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="港台新闻", 东森新闻
+http://192.9.241.2:9500/live.m3u8?c=16
+
+#EXTINF:-1 tvg-id="" tvg-name="东森财经新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="港台新闻",东森财经新闻
+http://192.9.241.2:9500/live.m3u8?c=17
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台新闻",东森财经股市
+http://192.9.241.2:9500/live.m3u8?c=18
+
+#EXTINF:-1 tvg-id="" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="港台新闻",TVBS HD
+http://192.9.241.2:9500/live.m3u8?c=26
+
+#EXTINF:-1 tvg-id="" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="港台新闻",TVBS新闻
+http://192.9.241.2:9500/live.m3u8?c=19
+
+#EXTINF:-1 tvg-id="" tvg-name="台视新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港台新闻",台视新闻
+http://192.9.241.2:9500/live.m3u8?c=20
+
+#EXTINF:-1 tvg-id="" tvg-name="寰宇新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="港台新闻",寰宇新闻
+http://192.9.241.2:9500/live.m3u8?c=21
+
+#EXTINF:-1 tvg-id="" tvg-name="三立新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="港台新闻",三立新闻
+http://192.9.241.2:9500/live.m3u8?c=22
+
+#EXTINF:-1 tvg-id="" tvg-name="中视新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="港台新闻",中视新闻
+http://192.9.241.2:9500/live.m3u8?c=23
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="港台新闻",中天新闻
+http://192.9.241.2:9500/live.m3u8?c=14
+
+#EXTINF:-1 tvg-id="" tvg-name="Discovery" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DiscoveryHD.png" group-title="文体",探索发现
+http://58.247.68.5:61985/hlsok/37c6ad51/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/natgeo.png" group-title="文体",国家地理
+http://58.247.68.5:61985/hlsok/cab58bd3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="文体",动物星球
+http://58.247.68.5:61985/hlsok/76011b82/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="文体",动物星球2
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=MABA3681856636818566&ct=18393&tsum=2066d4c793195f8449577d35af941288
+
+#EXTINF:-1 tvg-id="" tvg-name="动物星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/AnimalPlanet.png" group-title="文体",动物星球3
+http://50.7.220.74:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702 
+
+#EXTINF:-1 tvg-id="" tvg-name="纬来体育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="文体",纬来体育
+http://58.247.68.5:61985/hlsok/04a6b392/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="博斯运动一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="文体",博斯运动I
+http://58.247.68.5:61985/hlsok/967c8913/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="博斯运动二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sports_net_2.png" group-title="文体",博斯运动II
+http://58.247.68.5:61985/hlsok/231c4866/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN体育一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ELEVENsports1.png" group-title="文体",ELEVEN 1
+http://58.247.68.5:61985/hlsok/9eec5c46/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN体育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="文体",ELEVEN 2
+http://58.247.68.5:61985/hlsok/a4970c8d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://www.cfu.net/webres/Image/newsletter/Watch%20Tennis%20Channel.jpg" group-title="文体",Tennis Channel
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports News AU" tvg-logo="https://www.imdb.com/title/tt0799872/mediaviewer/rm2891883265/?ref_=tt_ov_i" group-title="文体", Fox Sports News AU
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
